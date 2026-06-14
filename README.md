@@ -40,9 +40,9 @@ Data Science undergraduate passionate about turning raw data into actionable ins
 - **ETL Pipelines** • **Feature Engineering** • **API Integration** • **Prophet** • **SMOTE** • **BigQuery**
 
 ## Featured Projects
-- **[End-to-End ML Projects](#)** → Predictive modeling & customer segmentation
-- **[Power BI Analytics Portfolio](#)** → Interactive business dashboards
-- **[Python Automation Tools](#)** → Voice assistant, file sharing & more
+- **[End-to-End ML Projects](https://github.com/syedaashir18/end-to-end-ml-projects)** → Predictive modeling & customer segmentation
+- **[Power BI Analytics Portfolio](https://github.com/syedaashir18/power-bi-analytics-portfolio)** → Interactive business dashboards
+- **[Python Automation Tools](https://github.com/syedaashir18/python-automation-portfolio)** → Voice assistant, file sharing & more
 
 ## GitHub Stats
 ![Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedaashir18&show_icons=true&theme=radical)
