@@ -12,12 +12,32 @@ Recent graduate passionate about turning raw data into actionable insights. Expe
 **Currently exploring**: MLOps, LLMs, and production data engineering.
 
 ## Tech Stack
+## Tech Stack
+
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-<!-- Add more as needed -->
+
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3A7E5E?logo=python&logoColor=white)
+
+### Visualization & BI
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white)
+
+### Tools & Platforms
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+
+### Other Skills
+- **ETL Pipelines** • **Feature Engineering** • **API Integration** • **Prophet** • **SMOTE** • **BigQuery**
 
 ## Featured Projects
 - **[End-to-End ML Projects](#)** → Predictive modeling & customer segmentation
