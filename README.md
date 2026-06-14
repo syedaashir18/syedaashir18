@@ -4,7 +4,7 @@
 Building end-to-end data solutions that drive business impact using Python, SQL, and ML.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=syedaashir18&color=0e75b6)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/syed-aashir-imran-2ba73527a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/syed-aashir-imran-2ba73527a/)
 
 ## About Me
 Recent graduate passionate about turning raw data into actionable insights. Experienced in exploratory data analysis, machine learning pipelines, predictive modeling, and interactive dashboards.
