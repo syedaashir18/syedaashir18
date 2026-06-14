@@ -8,10 +8,13 @@ Building end-to-end data solutions that drive business impact using Python, SQL,
 
 ## About Me
 Data Science undergraduate passionate about turning raw data into actionable insights. Experienced in exploratory data analysis, machine learning pipelines, predictive modeling, and interactive dashboards.
+-  BS Data Science student at DHA Suffa University 
+-  Focused on Data Science, Machine Learning & Business Intelligence
+-  Currently learning: MLOps, LLMs & Data Engineering
+-  Looking for: Internship / Part-time data roles
+-  Karachi, Pakistan
+-  ashirimran2009@gmail.com | https://www.linkedin.com/in/syed-aashir-imran-2ba73527a/
 
-**Currently exploring**: MLOps, LLMs, and production data engineering.
-
-## Tech Stack
 ## Tech Stack
 
 ### Programming Languages
