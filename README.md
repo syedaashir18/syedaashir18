@@ -3,7 +3,19 @@
 **Data Scientist | Data Analyst | ML Engineer**  
 Building end-to-end data solutions that drive business impact using Python, SQL, and ML.
 
-![Profile Views](https://komarev.com/ghpvc/?username=syedaashir18&color=0e75b6)
+
+![Profile Views](https://komarev.com/ghpvc/?username=syedaashir18&co
+
+👋 Hi, I'm Syed Aashir Imran
+🎓 BS Data Science — DHA Suffa University
+💼 Data Scientist | Python • SQL • Power BI • ML
+🔭 Currently: IT Intern @ State Life Insurance Corp
+📫 ashirimran2009@gmail.com
+
+🚀 Featured Projects:
+- Credit Card Fraud Detection (94% Recall)
+- Sentiment Analysis Pipeline (87% Accuracy)  
+- Sales Forecasting Dashboard (Prophet + Power BI)lor=0e75b6)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/syed-aashir-imran-2ba73527a/)
 
 ## About Me
